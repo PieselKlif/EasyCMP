@@ -14,8 +14,8 @@ EasyCMP to prosty, lekki i łatwy do osadzenia na stronie baner cookies zgodny z
 1. Dołącz skrypt i styl do strony oraz zdefiniuj globalne zmienne:
 
 	```html
-	<script src="https://raw.githubusercontent.com/PieselKlif/EasyCMP/refs/heads/main/dist/script.min.js" defer></script>
-	<link rel="stylesheet" href="https://raw.githubusercontent.com/PieselKlif/EasyCMP/refs/heads/main/dist/style.min.css">
+	<script src="https://pieselklif.github.io/EasyCMP/dist/script.min.js" defer></script>
+	<link rel="stylesheet" href="https://pieselklif.github.io/EasyCMP/dist/style.min.css">
 	<script>
 	  const analyticstTag = "G-XXXXXXX"; // ID Google Analytics
 	  const marketingTag = "AW-XXXXXXX"; // (opcjonalnie) ID Google Ads
